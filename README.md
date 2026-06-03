@@ -1,10 +1,10 @@
 # portfolio-website-ayushi
 # Portfolio Repository
 
-Name: Ayushi
+Name: Ayushi negi
 
 College: UPES
 
 Course/Branch: B.Tech CSE
 
-Internship Goal: To learn frontend development and build practical web development skills.
+Internship Goal: To develop strong frontend development skills and gain practical experience in building responsive and user-friendly web applications.
