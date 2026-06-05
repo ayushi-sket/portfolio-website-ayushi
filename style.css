@@ -18,7 +18,6 @@ nav {
     padding: 15px 0;
     position: sticky;
     top: 0;
-    z-index: 1000;
 }
 
 nav ul {
@@ -158,4 +157,33 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+}
+.dark-mode {
+    background-color: #111827;
+    color: white;
+}
+
+.dark-mode section {
+    background-color: #111827;
+}
+
+.dark-mode h2,
+.dark-mode h3,
+.dark-mode p,
+.dark-mode li {
+    color: white;
+}
+
+.dark-mode article,
+.dark-mode #skills li {
+    background-color: #1f2937;
+    color: white;
+}
+
+.dark-mode nav {
+    background-color: black;
+}
+
+.dark-mode footer {
+    background-color: black;
 }
